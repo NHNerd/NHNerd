@@ -31,7 +31,12 @@
 
 
 
-# 📊 GitHub Stats:
+# 📊 Stats:
+### codewars:
+  
+[![codewars](https://www.codewars.com/users/NHNerd/badges/large)](https://www.codewars.com/users/NHNerd)   
+
+### github:
 ![](https://github-readme-stats.vercel.app/api?username=nhnerd&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nhnerd&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhnerd&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
