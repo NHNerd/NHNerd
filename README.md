@@ -4,7 +4,8 @@
 
 # 👋 About me:
 ### Now
-Hello! I'm interested in full stack web dev,  
+Hello!  
+I'm interested in full stack web dev,  
 but I pay more attention to fontend.  
 (You can find the technologies I use below on the page.)  
 
