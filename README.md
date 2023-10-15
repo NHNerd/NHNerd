@@ -2,6 +2,35 @@
 
 [![](https://visitcount.itsvg.in/api?id=nhnerd&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 👋 About me:
+### Now
+Hello! I'm interested in full stack web dev,  
+but I pay more attention to fontend.  
+(You can find the technologies I use below on the page.)  
+
+### Background
+In the past, I worked in CG in cinema as a compositing( main ) artist  
+and VFX artist ( additionally ).
+
+I have extensive and fundamental knowledge in this area :)
+
+Skils and programs:
+* compositing( nuke )
+* animation( blender )
+* simulations( houdini )
+* texturing( substance painter, blender )
+* 3D tracking( 3dequalizer, nuke, blender )
+* modeling( blender )
+* retopology ( blender, zbrush)
+* procedural modeling( houdini )
+* sculpting( zbrush )
+* lighting( any 3d space :) )
+
+
+P.s. Now I'm in love with programming. ♡♡♡
+
+
+
 # 🎨 Frontend:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
