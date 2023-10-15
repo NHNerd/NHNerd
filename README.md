@@ -10,7 +10,7 @@ but I pay more attention to fontend.
 (You can find the technologies I use below on the page.)  
 
 ### Background
-In the past, I worked in CG in cinema as a compositing( main ) artist  
+In the past, I worked in CG in cinema as a compositing artist ( main )  
 and VFX artist ( additionally ).
 
 I have extensive and fundamental knowledge in this area :)
