@@ -25,7 +25,6 @@ Skils and programs:
 * retopology ( blender, zbrush)
 * procedural modeling( houdini )
 * sculpting( zbrush )
-* lighting( any 3d space :) )
 
 
 P.s. Now I'm in love with programming. ♡♡♡
